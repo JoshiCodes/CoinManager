@@ -1,0 +1,23 @@
+# CoinManager created by JoshiZockt_
+Lang:
+  Coin: 'Coin'
+  Coins: 'Coins'
+
+Config:
+  Storage:
+    # FILE
+    # MYSQL
+    Type: FILE
+
+    MYSQL:
+      Host: ''
+      User: ''
+      Password: ''
+      Database: ''
+      Port: 3306
+      Table: 'coins'
+
+  Lang:
+    SendMessages: true
+    SendMessageSound: true
+    MessageSound: LEVEL_UP
