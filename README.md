@@ -1,9 +1,16 @@
 # CoinManager
 
+##Download
+<br>
+You can download the Spigot Plugin here: (SOON)
+<br><br><br>
+
 ##Commands
 <br>
 The CoinManager have currently `1` Command:
 - `coins`, `money`, `bal` or `balance`. This shows the current balance of the Player. You can also give a Player as argument to view their Coins. Example: `balance` shows your Coins. `balance Steve` shows Steve's Coins.
+
+<br><br><br>
 
 ## API
 <br>
