@@ -42,3 +42,4 @@ And of course you can get the Coins of a Player:
 ```java
 CoinManager.getStorageMananager().getCoins(UUID);
 ```
+
