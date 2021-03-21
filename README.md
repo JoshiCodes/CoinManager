@@ -2,7 +2,7 @@
 
 
 ## API
-<br><br>
+<br>
 The CoinManager have 4 Events you can listen to
 - `PlayerCoinsAddEvent` (When Coins for a Player are added)
 - `PlayerCoinsRemoveEvent` (When Coins for a Player are removed)
