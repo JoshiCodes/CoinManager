@@ -17,10 +17,10 @@ This Command shows the current Player balance. You can also add a Player as argu
 ## API
 <br>
 The CoinManager have 4 Events you can listen to: <br>
-- `PlayerCoinsAddEvent` (When Coins for a Player are added)
-- `PlayerCoinsRemoveEvent` (When Coins for a Player are removed)
-- `PlayerCoinsSetEvent` (When Coins for a Player are set)
-- `PlayerPayCoinsEvent` (When someone pays Coins to another Player)
+- `PlayerCoinsAddEvent` (When Coins for a Player are added) <br>
+- `PlayerCoinsRemoveEvent` (When Coins for a Player are removed) <br>
+- `PlayerCoinsSetEvent` (When Coins for a Player are set) <br>
+- `PlayerPayCoinsEvent` (When someone pays Coins to another Player) <br>
 
 <br><br><br>
 You can give a Player Coins with this Code:
