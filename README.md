@@ -1,4 +1,5 @@
-# CoinManager
+# CoinManager created by JoshiZockt_
+###### A simple CoinManager to give, set or remove Coins from a Player. Includes an API.
 
 ## Download
 <br>
