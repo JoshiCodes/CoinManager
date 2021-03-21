@@ -7,7 +7,8 @@ You can download the Spigot Plugin here: (SOON)
 
 ## Commands
 <br>
-The CoinManager have currently `1` Command:
+The CoinManager have currently `1` Command: <br>
+
 ###### balance
 This Command shows the current Player balance. You can also add a Player as argument to view their Balance.
 
