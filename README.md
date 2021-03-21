@@ -9,7 +9,7 @@ The CoinManager have 4 Events you can listen to
 - `PlayerCoinsSetEvent` (When Coins for a Player are set)
 - `PlayerPayCoinsEvent` (When someone pays Coins to another Player)
 
-<br><br><br><br>
+<br><br><br>
 You can give a Player Coins with this Code:
 ```java
 CoinManager.getStorageMananager().addCoins(UUID, COINS);
