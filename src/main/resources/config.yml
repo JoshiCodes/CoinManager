@@ -2,6 +2,9 @@
 Lang:
   Coin: 'Coin'
   Coins: 'Coins'
+  Prefix: '&8[&e&l%coins%&8] &7'
+  CoinsCommand: 'Your %coins%: &e%playerCoins%'
+  OtherCoinsCommand: '%player%`s %coins%: &e%playerCoins%'
 
 Config:
   Storage:
@@ -17,7 +20,13 @@ Config:
       Port: 3306
       Table: 'coins'
 
+    FILE:
+      Filename: 'coins.yml'
+
   Lang:
     SendMessages: true
     SendMessageSound: true
     MessageSound: LEVEL_UP
+
+  Coins:
+    DefaultCoins: 1000
