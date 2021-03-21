@@ -7,7 +7,7 @@ You can download the Spigot Plugin here: (SOON)
 
 ## Commands
 <br>
-The CoinManager have currently `1` Command: <br>
+The CoinManager have currently **1** Command: <br>
 
 ###### balance
 This Command shows the current Player balance. You can also add a Player as argument to view their Balance.
@@ -17,10 +17,10 @@ This Command shows the current Player balance. You can also add a Player as argu
 ## API
 <br>
 The CoinManager have 4 Events you can listen to: <br>
-- `PlayerCoinsAddEvent` (When Coins for a Player are added) <br>
-- `PlayerCoinsRemoveEvent` (When Coins for a Player are removed) <br>
-- `PlayerCoinsSetEvent` (When Coins for a Player are set) <br>
-- `PlayerPayCoinsEvent` (When someone pays Coins to another Player) <br>
+- **PlayerCoinsAddEvent** (When Coins for a Player are added) <br>
+- **PlayerCoinsRemoveEvent** (When Coins for a Player are removed) <br>
+- **PlayerCoinsSetEvent** (When Coins for a Player are set) <br>
+- **PlayerPayCoinsEvent** (When someone pays Coins to another Player) <br>
 
 <br><br><br>
 You can give a Player Coins with this Code:
